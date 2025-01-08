@@ -18,3 +18,6 @@ This project is a simple image slider (carousel) built using HTML, CSS, and Java
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/289993f8-7b1c-49e2-9573-425dd10e13d5)
+
+## link
+- You can also access from this link 😊 - [Visit](https://imagesliderbyzfr.netlify.app/)
